@@ -1,6 +1,6 @@
 # Hello-World
 GCE
-The Biography of I am Sam
+The Biography of I am Sam.
 I am looking forward to learning the true value of an education giving back to the community, as well as develop as a lifelong learner. 
 I'm an Army Brat born in Fort Hood, Texas.
 I am an older brother who was raised by two parents from Mayaguez, Puerto Rico.
